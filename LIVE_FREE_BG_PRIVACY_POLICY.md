@@ -1,5 +1,5 @@
 Privacy Policy
-built the LiveFreeBG app as a Free app. This SERVICE is provided 
+built the LiveFree BG camping places app as a Free app. This SERVICE is provided 
 by at no cost and is intended for use as is.
 
 This page is used to inform visitors regarding my policies with the 
@@ -13,7 +13,7 @@ share your information with anyone except as described in this Privacy
 Policy.
 
 The terms used in this Privacy Policy have the same meanings as in our 
-Terms and Conditions, which are accessible at Simple Car Maintenance - Vehicle Log unless 
+Terms and Conditions, which are accessible at LiveFree BG camping places unless 
 otherwise defined in this Privacy Policy.
 
 Information Collection and Use
@@ -102,7 +102,7 @@ I may update our Privacy Policy from time to time. Thus, you are advised
 to review this page periodically for any changes. I will notify you of any 
 changes by posting the new Privacy Policy on this page.
 
-This policy is effective as of 2022-11-06
+This policy is effective as 5-th of June 2023.
 
 Contact Us
 
